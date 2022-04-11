@@ -1,0 +1,2 @@
+# CookieClicker
+exercicio de clicar
